@@ -1,9 +1,9 @@
 	#include <stdio.h>
 
 	/**
-	 * main - prints a string
+	 * main - prints a string with the put function
 	 *
-	 * Descripcion - la funcion main imprime el string
+	 * Description: la funcion main imprime el string
 	 * \"Programming is like building a multilingual puzzle
 	 * con un salto de linea
 	 * Return: no retorna nada
