@@ -3,10 +3,10 @@
 	/**
 	 * main - prints a string with the put function
 	 *
-	 * Description: la funcion main imprime el string
+	 * Description: main function prints the string
 	 * \"Programming is like building a multilingual puzzle
-	 * con un salto de linea
-	 * Return: no retorna nada
+	 * with a line break
+	 * Return: returns nothing
 	 */
 	int main(void)
 	{
