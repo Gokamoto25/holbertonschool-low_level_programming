@@ -7,11 +7,9 @@
 int main(void)
 {
 	int i;
-
 	for (i = '0' ; i <= '9' ; i++)
 	{
 		putchar(i);
-
 	if (i != '9')
 	{
 		putchar(',');
@@ -19,8 +17,6 @@ int main(void)
 		putchar(' ');
 	}
 	}
-
 	putchar('\n');
-
 	return (0);
 }
