@@ -9,7 +9,6 @@ int _abs(int i)
 if (i < 0)
 {
 	int valorAbsoluto;
-	
 	valorAbsoluto = i * -1;
 	return (valorAbsoluto);
 }
