@@ -2,9 +2,9 @@
 /**
  * *_strcpy - copies the string pointed to by src,
  * including the terminating null byte (\0)
- * @dest:
- * @src:
- * Return:
+ * @dest: string a cambiar valor
+ * @src: string
+ * Return: dest
  */
 char *_strcpy(char *dest, char *src)
 {
@@ -17,4 +17,4 @@ char *_strcpy(char *dest, char *src)
 	dest[i++] = '\0';
 
 	return (dest);
-}	
+}
