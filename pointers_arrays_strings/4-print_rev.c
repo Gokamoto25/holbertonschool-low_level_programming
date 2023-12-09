@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * print_rev - prints a string, in reverse
+ * @str: string a ser iterado
  * Return: void
  */
 void print_rev(char *str)
