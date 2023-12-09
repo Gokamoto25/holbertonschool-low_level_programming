@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * print_array - prints n elements of an array of integers
- * @a:
- * @n:
+ * @a: array
+ * @n: numero de caracteres de array
  * Return: void
  */
 void print_array(int *a, int n)
