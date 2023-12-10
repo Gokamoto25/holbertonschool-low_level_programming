@@ -7,9 +7,9 @@
 int _atoi(char *s)
 {
 	int i = 0;
-	
+
 	unsigned int ni = 0;
-	
+
 	int min = 1;
 
 	int isi = 0;
@@ -23,9 +23,9 @@ int _atoi(char *s)
 	while (s[i] >= 48 && s[i] <= 57)
 	{
 	isi = 1;
-	
+
 	ni = (ni * 10) + (s[i] - '0');
-	
+
 	i++;
 	}
 	if (isi == 1)
