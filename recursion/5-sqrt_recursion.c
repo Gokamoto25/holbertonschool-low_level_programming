@@ -1,7 +1,7 @@
 #include "main.h"
 int _raiz(int n, int i);
 /**
- * _raiz - calcula la raiz del numero natural
+ * _sqrt_recursion - calcula la raiz del numero natural
  * @n: numero a calcular la raiz
  * @i: numero a iterar
  * Return: la raiz del numero natural
@@ -12,7 +12,7 @@ int _sqrt_recursion(int n)
 	return (_raiz(n, 1));
 }
 /**
- * _sqrt_recursion - returns the natural square root of a number
+ * _raiz - calcula la raiz del numero natural
  *@n: numero a calcular la raiz
  *@i: numero raíz
  *Return: the natural square root of a number
