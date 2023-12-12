@@ -3,7 +3,6 @@ int _raiz(int n, int i);
 /**
  * _sqrt_recursion - calcula la raiz del numero natural
  * @n: numero a calcular la raiz
- * @i: numero a iterar
  * Return: la raiz del numero natural
  */
 
