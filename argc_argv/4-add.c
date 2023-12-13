@@ -4,7 +4,7 @@
 #include <string.h>
 /**
  * main - adds positive numbers
- * @argc argument count
+ * @argc: argument count
  * @argv: argument vector
  * Return: 0
  */
@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
 	}
 	else
 	{
-		printf ("0\n");
+		printf("0\n");
 	}
 	return (0);
 }
